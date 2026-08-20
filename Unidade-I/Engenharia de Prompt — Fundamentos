@@ -1,0 +1,77 @@
+# Engenharia de Prompt — Fundamentos
+
+## 1. Objetivo
+
+O objetivo desta atividade é comparar um **prompt genérico** com um **prompt estruturado**, observando como a forma de elaborar uma pergunta pode influenciar a resposta gerada por uma Inteligência Artificial.
+
+Para realizar a comparação, foi escolhido o tema **Machine Learning**, por ser um conceito importante na área de Tecnologia da Informação e Inteligência Artificial.
+
+---
+
+## 2. Prompt Genérico
+
+### Pergunta
+
+> O que é Machine Learning?
+
+### Resposta
+
+Machine Learning, ou aprendizado de máquina, é uma área da Inteligência Artificial que permite que computadores aprendam a partir de dados, sem precisar receber instruções específicas para cada situação.
+
+Em vez de programar todas as regras manualmente, um modelo de Machine Learning analisa exemplos e identifica padrões que podem ser utilizados para realizar previsões ou tomar decisões. Por exemplo, um sistema pode analisar várias mensagens classificadas como spam ou não spam e aprender a identificar características que indicam quando uma nova mensagem provavelmente é spam.
+
+O Machine Learning é utilizado em diversas aplicações, como sistemas de recomendação, reconhecimento de imagens, detecção de fraudes, assistentes virtuais, análise de dados e detecção de notícias falsas.
+
+---
+
+## 3. Prompt Estruturado
+
+O prompt estruturado foi elaborado utilizando a fórmula:
+
+**Papel + Objetivo + Contexto + Formato**
+
+### Papel
+
+Atuar como um **professor de Ciência da Computação**.
+
+### Objetivo
+
+Explicar o conceito de **Machine Learning** de forma simples e fácil de entender.
+
+### Contexto
+
+A explicação será direcionada para uma **pessoa que está começando a estudar Inteligência Artificial**.
+
+### Formato
+
+A explicação deverá utilizar uma **analogia com esportes**, possuir **2 parágrafos** e utilizar uma linguagem **simples e objetiva**.
+
+### Prompt completo
+
+> Atue como um professor de Ciência da Computação. Explique Machine Learning para uma pessoa que está começando a estudar Inteligência Artificial. Utilize uma analogia com esportes para facilitar a compreensão e apresente a explicação em 2 parágrafos, utilizando uma linguagem simples e objetiva.
+
+### Resposta
+
+Machine Learning, ou aprendizado de máquina, é uma área da Inteligência Artificial em que o computador aprende a identificar padrões a partir de exemplos. Podemos imaginar isso como um jogador de futebol que está aprendendo a jogar. No início, ele não sabe exatamente como tomar as melhores decisões em campo. Porém, conforme treina e observa diferentes situações, começa a perceber padrões e melhorar suas escolhas. Da mesma forma, um modelo de Machine Learning recebe diversos exemplos e utiliza essas informações para aprender a realizar determinada tarefa.
+
+Por exemplo, imagine um sistema que precisa identificar se uma notícia é verdadeira ou falsa. Podemos fornecer ao modelo várias notícias que já foram classificadas anteriormente. Assim como um jogador aprende com os treinos e experiências anteriores, o modelo analisa características presentes nos exemplos e aprende padrões que podem ajudar na classificação de novas notícias. Dessa forma, quando recebe uma notícia que nunca viu antes, o modelo pode utilizar o conhecimento adquirido durante o treinamento para estimar se ela provavelmente é verdadeira ou falsa.
+
+---
+
+## 4. Análise Crítica
+
+A resposta obtida por meio do **prompt estruturado foi mais útil** para o objetivo da atividade. O prompt genérico também apresentou uma explicação correta sobre Machine Learning, porém a pergunta era muito ampla e não especificava para quem a explicação deveria ser direcionada ou como ela deveria ser apresentada.
+
+No prompt estruturado, foram definidos o **papel da Inteligência Artificial**, o **objetivo da resposta**, o **contexto do público** e o **formato desejado**. Isso reduziu a ambiguidade da solicitação e fez com que a resposta fosse mais direcionada para uma pessoa iniciante. Além disso, a utilização de uma analogia com esportes facilitou a compreensão do conceito.
+
+Com isso, foi possível perceber que quanto mais claras e específicas forem as instruções fornecidas no prompt, maior é a possibilidade de obter uma resposta adequada ao objetivo desejado. A estrutura **Papel + Objetivo + Contexto + Formato** ajudou a orientar a Inteligência Artificial e tornou a resposta mais clara, objetiva e fácil de compreender.
+
+---
+
+## 5. Conclusão
+
+A atividade demonstrou, na prática, a importância da Engenharia de Prompt na utilização de ferramentas de Inteligência Artificial.
+
+O prompt genérico foi capaz de produzir uma resposta correta sobre Machine Learning, mas apresentou uma explicação mais geral. Já o prompt estruturado permitiu definir melhor o público, o objetivo e o formato da resposta, produzindo um resultado mais adequado à situação proposta.
+
+Portanto, a utilização de prompts estruturados pode reduzir ambiguidades e ajudar a obter respostas mais alinhadas às necessidades do usuário.
