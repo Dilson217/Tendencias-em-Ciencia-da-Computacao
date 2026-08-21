@@ -1,9 +1,9 @@
 # Atividade Prática — Suíte Iterativa de Prompts para Engenharia de Software
 
-**Disciplina:** Tendências em Ciências da Computação
-**Unidade I:** Fundamentos de Engenharia de Prompt
-**Integrante:** Dilson Ribeiro de Souza
-**Entrega:** Repositório GitHub
+* **Disciplina:** Tendências em Ciências da Computação
+* **Unidade I:** Fundamentos de Engenharia de Prompt
+* **Integrante:** Dilson Ribeiro de Souza
+* **Entrega:** Repositório GitHub
 
 ---
 
