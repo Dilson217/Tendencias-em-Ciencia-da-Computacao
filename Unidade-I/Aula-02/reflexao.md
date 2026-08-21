@@ -2,7 +2,7 @@
 
 * **Disciplina:** Tendências em Ciências da Computação
 * **Unidade I:** Fundamentos de Engenharia de Prompt
-* **Integrante:** Dilson Ribeiro de Souza
+* **Integrantes:** Dilson Ribeiro de Souza RGM:38240106/ Igor Carvalho de Oliveira RGM:36003719
 
 ---
 
