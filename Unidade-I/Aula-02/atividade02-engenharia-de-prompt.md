@@ -50,7 +50,6 @@ Desenvolver e testar uma suíte iterativa de prompts para utilizar uma IA genera
 ## 2.2 Prompt Mestre Inicial
 
 ```text
-Você é um Engenheiro de Software Senior e Revisor de Código Python.
 
 Contexto: Um estudante do primeiro ano de Computação desenvolveu o código abaixo para um sistema universitário de agendamento de orientações de TCC. O sistema vem apresentando bugs no envio de horários inválidos.
 
