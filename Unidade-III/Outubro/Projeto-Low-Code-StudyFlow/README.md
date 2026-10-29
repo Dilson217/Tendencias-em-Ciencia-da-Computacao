@@ -6,6 +6,12 @@ Tendências em Ciência da Computação
 ## Unidade
 Unidade III — Outubro
 
+## Integrantes
+
+- Dilson Ribeiro de Souza
+- Igor Carvalho de Oliveira
+- Lucas Fernandes Soares
+
 ## 1. Apresentação
 
 O **StudyFlow — Gerenciador Inteligente de Tarefas Acadêmicas** é uma aplicação web desenvolvida como atividade prática da disciplina de Tendências em Ciência da Computação, utilizando a abordagem de Low Code / No Code, com foco em Vibecode.
